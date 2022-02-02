@@ -30,7 +30,7 @@ Clone code from github and then run ` npm install && npm start ` in your termina
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](undefined)
 
 ### Contributing
-Starter code was provider by the Full Stack Web Developer Bootcamp at the University of Denver.
+Starter code was provided by the Full Stack Web Developer Bootcamp at the University of Denver.
 
 ### Questions?
 Github Username: nolimarie
