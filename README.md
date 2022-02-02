@@ -1,4 +1,4 @@
-# Book Search Engine
+# Simple Book Search
 
 ## Project Description
 A search engine that allows the user to search for books and save them to a list for future reference.
@@ -22,8 +22,6 @@ React
 Node.js 
 
 Express 
-
-MongoDB 
 
 GraphQL
 
