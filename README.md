@@ -3,8 +3,6 @@
 ## Project Description
 A search engine that allows the user to search for books and save them to a list for future reference.
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](undefined)
-
 ### Table of Contents
 * [Usage](#usage)
 * [Technologies](#tech)
@@ -29,7 +27,7 @@ GraphQL
 Clone code from github and then run ` npm install && npm start ` in your terminal. You can also go to the deployed site at (<https://simple-book-search.herokuapp.com/>)
 
 ### License
-ISC
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](undefined)
 
 ### Contributing
 Starter code was provider by the Full Stack Web Developer Bootcamp at the University of Denver.
